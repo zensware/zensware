@@ -37,7 +37,7 @@ Nordiczens/Nordiczens is a `README.md` repository (this file) is viewed on my Gi
   <img src="https://github-readme-stats.vercel.app/api?username=Nordiczens&theme=midnight-purple&show_icons=true" />
 </p>
 
-<!-- ![zens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nordiczens&theme=midnight-purple&show_icons=true)
+<!-- ![zens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nordiczens&theme=midnight-blue&show_icons=true)
  -->
 
 
