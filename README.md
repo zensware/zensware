@@ -12,7 +12,7 @@
 
 <div align="center"> 
 <h1 align="center">How to Contact?</h1>
-<h align="center">- You can contact me via my discord: zens#9999 or <a href="https://discord.gg/x6UX9qufVR">here</a> in my discord server
+<h align="center">- You can contact me via my discord: zens#9999 or <a href="discord.gg/ek7vMjbqAb">here</a> in my discord server
 </p>
 <h align="center">- You could also contact contact me on instagram: <a href="https://www.instagram.com/zensddk/">zensddk</a>
 <h
