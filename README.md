@@ -41,12 +41,12 @@ Nordiczens/Nordiczens is a `README.md` repository (this file) is viewed on my Gi
 </p>
 <div align="center"> 
 Here's a showcase of what I've accomplished 
-<a href="https://github.com/Nordiczens"></a>
+<a href="https://github.com/ZensDK"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nordiczens&theme=midnight-purple&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZensDK&theme=midnight-purple&show_icons=true" />
 </p>
 
-<!-- ![zens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nordiczens&theme=midnight-purple&show_icons=true)
+<!-- ![zens's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZensDK&theme=midnight-purple&show_icons=true)
  -->
 
 
