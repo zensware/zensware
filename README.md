@@ -38,14 +38,6 @@ Anyways I'd love to build a friendship with anyone that comes in my way if they'
 Nordiczens/Nordiczens is a `README.md` repository (this file) is viewed on my GitHub profile.
 --->
 
-<h1 align="center">zens's Github stats</h1>
-</p>
-<div align="center"> 
-Here's a showcase of what I've accomplished 
-<a href="https://github.com/ZensDK"></a>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZensDK&theme=midnight-purple&show_icons=true" />
-</p>
 
 <!-- ![zens's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZensDK&theme=midnight-purple&show_icons=true)
  -->
