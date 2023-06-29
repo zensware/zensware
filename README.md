@@ -6,7 +6,7 @@
 - [Instagram](https://www.instagram.com/zensddk/)
 - [Discord](https://discord.gg/7WJMzzg8Ee/)
 
-### Discord Client
-</p>
-    <img alt="" src="https://lanyard.cnrad.dev/api/1017306008424566845/">
+
+<p href="zensware" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/1017306008424566845/>
 </p>
