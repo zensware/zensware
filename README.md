@@ -12,6 +12,9 @@ Hey there! I'm a 17-year-old developer based in Copenhagen, Denmark. I'm passion
 
 - **Discord:** [@zensware](https://discord.com/users/1017306008424566845)
 - **Discord Server:** [.gg/stWgVnBgHq](https://discord.com/stWgVnBgHq)
+
+<br>
+<img src=https://lanyard.cnrad.dev/api/1017306008424566845/>
   
 ## Programming Languages
 
